@@ -28,7 +28,8 @@
       "id": 5,
       "name": "Lucipher",
       "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg",
+      "test": "your dog is dead"
     },
     {
       "id": 6,
